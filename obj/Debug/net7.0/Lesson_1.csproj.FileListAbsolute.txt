@@ -1,0 +1,15 @@
+I:\Project\CSharp\Lesson_1\bin\Debug\net7.0\Lesson_1.exe
+I:\Project\CSharp\Lesson_1\bin\Debug\net7.0\Lesson_1.deps.json
+I:\Project\CSharp\Lesson_1\bin\Debug\net7.0\Lesson_1.runtimeconfig.json
+I:\Project\CSharp\Lesson_1\bin\Debug\net7.0\Lesson_1.dll
+I:\Project\CSharp\Lesson_1\bin\Debug\net7.0\Lesson_1.pdb
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\Lesson_1.csproj.AssemblyReference.cache
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\Lesson_1.AssemblyInfoInputs.cache
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\Lesson_1.AssemblyInfo.cs
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\Lesson_1.csproj.CoreCompileInputs.cache
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\Lesson_1.dll
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\refint\Lesson_1.dll
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\Lesson_1.pdb
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\Lesson_1.genruntimeconfig.cache
+I:\Project\CSharp\Lesson_1\obj\Debug\net7.0\ref\Lesson_1.dll
